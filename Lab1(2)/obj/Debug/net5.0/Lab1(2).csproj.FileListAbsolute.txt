@@ -1,0 +1,16 @@
+D:\Programming\university\Lab1(2)\Lab1(2)\bin\Debug\net5.0\Lab1(2).exe
+D:\Programming\university\Lab1(2)\Lab1(2)\bin\Debug\net5.0\Lab1(2).deps.json
+D:\Programming\university\Lab1(2)\Lab1(2)\bin\Debug\net5.0\Lab1(2).runtimeconfig.json
+D:\Programming\university\Lab1(2)\Lab1(2)\bin\Debug\net5.0\Lab1(2).runtimeconfig.dev.json
+D:\Programming\university\Lab1(2)\Lab1(2)\bin\Debug\net5.0\Lab1(2).dll
+D:\Programming\university\Lab1(2)\Lab1(2)\bin\Debug\net5.0\Lab1(2).pdb
+D:\Programming\university\Lab1(2)\Lab1(2)\obj\Debug\net5.0\Lab1(2).csproj.AssemblyReference.cache
+D:\Programming\university\Lab1(2)\Lab1(2)\obj\Debug\net5.0\Lab1(2).GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\university\Lab1(2)\Lab1(2)\obj\Debug\net5.0\Lab1(2).AssemblyInfoInputs.cache
+D:\Programming\university\Lab1(2)\Lab1(2)\obj\Debug\net5.0\Lab1(2).AssemblyInfo.cs
+D:\Programming\university\Lab1(2)\Lab1(2)\obj\Debug\net5.0\Lab1(2).csproj.CoreCompileInputs.cache
+D:\Programming\university\Lab1(2)\Lab1(2)\obj\Debug\net5.0\Lab1(2).dll
+D:\Programming\university\Lab1(2)\Lab1(2)\obj\Debug\net5.0\refint\Lab1(2).dll
+D:\Programming\university\Lab1(2)\Lab1(2)\obj\Debug\net5.0\Lab1(2).pdb
+D:\Programming\university\Lab1(2)\Lab1(2)\obj\Debug\net5.0\Lab1(2).genruntimeconfig.cache
+D:\Programming\university\Lab1(2)\Lab1(2)\obj\Debug\net5.0\ref\Lab1(2).dll
